@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssave",
+        "uuid": 2856100,
+        "checksum": "hwcvtr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
