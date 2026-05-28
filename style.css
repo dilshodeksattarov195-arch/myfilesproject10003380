@@ -1,0 +1,8 @@
+body { background: #86474d; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 45px; display: flex; }
+.block-logger-0 { color: #17ddbb; font-size: 21px; margin-bottom: 5px; }
+.block-sms-1 { color: #f88db9; font-size: 21px; margin-bottom: 5px; }
+.block-validator-2 { color: #430b3b; font-size: 17px; margin-bottom: 5px; }
+.block-validator-3 { color: #5baebc; font-size: 14px; margin-bottom: 5px; }
+.block-token-4 { color: #d3f446; font-size: 16px; margin-bottom: 5px; }
+.block-filter-5 { color: #f5f665; font-size: 12px; margin-bottom: 5px; }
